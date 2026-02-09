@@ -1,0 +1,133 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "Beach",
+                "Fish"
+            ],
+            "{{ModId}}_AnchovyFishstick": {
+                    "ItemId": "{{ModId}}_AnchovyFishstick",
+                    "Condition": "LOCATION_SEASON Here winter, winter",
+                    "FishAreaId": "Ocean"
+                },
+                "{{ModId}}_FrozenPufferPatty": {
+                    "ItemId": "{{ModId}}_FrozenPufferPatty",
+                    "Condition": "LOCATION_SEASON Here winter"
+                },
+                "{{ModId}}_Tunafishstick": { 
+                    "ItemId": "{{ModId}}_Tunafishstick",
+                    "Condition":"LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_Sardinefishstick": {
+                "ItemId": "{{ModId}}_Sardinefishstick",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_Flounderpatty": {
+                "ItemId": "{{ModId}}_Flounderpatty",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_Halibutfishstick": {
+                "ItemId": "{{ModId}}_Halibutfishstick",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_Herringfishstick": {
+                "ItemId": "{{ModId}}_Herringfishstick",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_Tilapiapatty": {
+                "ItemId": "{{ModId}}_Tilapiapatty",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_RedSnapperfishstick": {
+                "ItemId": "{{ModId}}_RedSnapperfishstick",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_Albacorefishstick": {
+                "ItemId": "{{ModId}}_Albacorefishstick",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_SeaCukering": {
+                "ItemId": "{{ModId}}_SeaCukering",
+                "Condition": "LOCATION_SEASON Here winter"
+            },
+            "{{ModId}}_SuperCukering": {
+                "ItemId": "{{ModId}}_SuperCukering",
+                "Condition": "LOCATION_SEASON Here winter"
+        },
+        "{{ModId}}_Squidring": {
+            "ItemId": "{{ModId}}_Squidring",
+            "Condition": "LOCATION_SEASON Here winter"
+        },
+        "{{ModId}}_Octopusring": {
+            "ItemId": "{{ModId}}_Octopusring",
+            "Condition": "LOCATION_SEASON Here winter"
+        }, 
+        "{{ModId}}_RedMulletfishstick": {
+            "ItemId": "{{ModId}}_RedMulletfishstick",
+            "Condition": "LOCATION_SEASON Here winter"
+        }
+    },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "Forest",
+                "Fish"
+            ],
+            "Entries": {
+                "{{ModId}}_TofuFish": {
+                    "ItemId": "{{ModId}}_TofuFish",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "River"
+                },
+                "{{ModId}}_TempehFish": {
+                    "ItemId": "{{ModId}}_TempehFish",
+                    "Condition": "LOCATION_SEASON Here summer fall",
+                    "FishAreaId": "Lake"
+                },
+                "{{ModId}}_Sunfishstick": {
+                    "ItemId": "{{ModId}}_Sunfishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "River"
+                },
+                "{{ModId}}_Catfishstick": {
+                    "ItemId": "{{ModId}}_Catfishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "River"
+                },
+                "{{ModId}}_Chubfishstick": {
+                    "ItemId": "{{ModId}}_Chubfishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "River"
+                },
+                "{{ModId}}_Smallmouthfishstick": {
+                    "ItemId": "{{ModId}}_Smallmouthfishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "Lake"
+                },
+                "{{ModId}}_Shadfishstick": {
+                    "ItemId": "{{ModId}}_Shadfishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "River"
+                },
+                "{{ModId}}_BreamFishstick": {
+                    "ItemId": "{{ModId}}_BreamFishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "Lake"
+                },
+                "{{ModId}}_Doradofishstick": {
+                    "ItemId": "{{ModId}}_Doradofishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "River"
+                },
+                "{{ModId}}_RainbowTroutfishstick": {
+                    "ItemId": "{{ModId}}_RainbowTroutfishstick",
+                    "Condition": "LOCATION_SEASON Here winter",
+                    "FishAreaId": "River"
+                }
+            }
+        }
+    ]
+}
