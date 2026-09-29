@@ -1,0 +1,137 @@
+Fish Data: Done
+Object Data: Done
+Location Data: Needs Ginger Island 
+Tested: 
+
+
+Calico Desert:
+Scorpion Carp
+Sandfish
+
+Ginger Island South: 
+Blue BlueDiscus
+Lionfish
+Super Cuke 
+tuna
+pufferfish
+Flounder
+
+Ginger Island SouthEast: 
+Super Cuke
+tuna
+pufferfish
+Flounder
+Lionfish
+
+Ginger Island SouthEast Cave:
+Super Cuke
+tuna
+pufferfish
+Flounder
+Lionfish
+Stingray
+
+Ginger Island West:
+octopus
+Super cuke 
+tuna
+pufferfish
+flounder
+lionfish,
+tilapia
+blue BlueDiscus
+Midnight Carp
+
+Island North:
+tilapia
+blue discus 
+midnight carp
+
+Caldera:
+lavaeel
+
+Underground Mine: 
+Ghostfish
+
+
+Forest 
+
+River: 
+sunfish x
+catfish (raining), x
+chub, x
+shad (raining), x
+bream, x
+dorado, x
+rainbow trout, x
+pike, x
+salmon, x
+tiger trout x
+walleye (rainy) x
+lingcod x
+perch x
+
+Pond:
+smallmouth bass x
+pike x
+walleye x
+perch x
+pike x
+midnight carp x
+glacierfish x
+glacierfish jr x
+
+Waterfall: goby x, salmon x
+
+
+Beach: 
+sardine x
+flounder x
+anchovy x
+herring x
+halibut x
+eel x
+octopus x
+tilapia x
+red mullet x
+red snapper (rainy)x
+tuna x
+pufferfish (sunny)x
+super cucumber x
+sea cucumber x
+albacore x
+squid x
+midnight squid x
+blobfish x
+spookfish x
+crimsonfish x
+son of crimsonfish x
+
+Mountain:
+largemouth bass (only until 7pm) x
+bullhead x
+carp x
+chub x
+rainbow trout 6-6 x
+sturgeon (only until 7pm) x
+walleye (rainy 11-1am)x
+lingcod x
+perch x
+midnight carp (9pm-1am) x
+legend x
+legend II x
+
+Town:
+sunfish - sunny 6-6 x
+catfish - rainy 6-11 x
+smallmouth bass x
+shad 8-1am x
+bream - 6-1am x
+rainbow trout 6-6 sunny x
+pike x
+salmon 6-6 x
+tiger trout 6-6 x
+lingcod x
+perch x
+Angler x
+Ms Angler, x

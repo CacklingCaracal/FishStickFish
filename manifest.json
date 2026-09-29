@@ -1,0 +1,12 @@
+{
+    "Name": "Fishstick Fish",
+    "Author": "CacklingCaracal",
+    "Version": "1.5",
+    "Description": "Itsa gottang fiesta.",
+    "UniqueID": "CacklingCaracal.FishstickFish",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    
+}

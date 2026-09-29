@@ -1,12 +1,29 @@
 {
      "Format": "2.9.0",
+     "ConfigSchema": {
+        "Frozen Vegan Fish": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Frozen Vegan Fish",
+      "Description": "If you also have my Vegan Fish mod and would like their frozen counterparts."
+    }
+     },
 
 
      "Changes": [
         
+      
         {
             "Action": "Include",
-            "FromFile": "data/fishdata.json"
+            "FromFile": "data/FishData.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "data/Location.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "data/Objects.json"
         }
      ]
 }

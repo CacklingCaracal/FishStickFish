@@ -1,0 +1,653 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "LogName": "Fishpond",
+            "Target": "Data/FishPondData",
+            "Entries": {
+                "{{ModId}}_AnchovyFishstick": {
+                    "Id": "{{ModId}}_AnchovyFishstick",
+                    "SpawnTime": 3,
+                    "ProducedItems": [
+                        {
+                            "RequiredPopulation": 10,
+                            "Chance": 0.06,
+                            "ItemID": "129",
+                            "MinQuantity": 1,
+                            "MaxQuantity": 3
+                        }
+                    ]
+                        },
+                        "{{ModId}}_FlounderPatty": {
+  "Id": "{{ModId}}_FlounderPatty",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "267",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SardineFishstick": {
+  "Id": "{{ModId}}_SardineFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "131",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_HerringFishstick": {
+  "Id": "{{ModId}}_HerringFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "147",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_HalibutFishstick": {
+  "Id": "{{ModId}}_HalibutFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "708",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_OctopusRings": {
+  "Id": "{{ModId}}_OctopusRings",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "149",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_TilapiaPatty": {
+  "Id": "{{ModId}}_TilapiaPatty",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "701",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_RedMulletFishstick": {
+  "Id": "{{ModId}}_RedMulletFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "146",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_RedSnapperFishstick": {
+  "Id": "{{ModId}}_RedSnapperFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "150",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_TunaFishstick": {
+  "Id": "{{ModId}}_TunaFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "130",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_AlbacoreFishstick": {
+  "Id": "{{ModId}}_AlbacoreFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "705",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SpookfishFishstick": {
+  "Id": "{{ModId}}_SpookfishFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "799",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_PufferPatty": {
+  "Id": "{{ModId}}_PufferPatty",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "128",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_BlobfishPatty": {
+  "Id": "{{ModId}}_BlobfishPatty",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "800",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SuperCukeRings": {
+  "Id": "{{ModId}}_SuperCukeRings",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "155",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SeaCukeRings": {
+  "Id": "{{ModId}}_SeaCukeRings",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "154",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SquidRings": {
+  "Id": "{{ModId}}_SquidRings",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "151",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_MidnightSquidRings": {
+  "Id": "{{ModId}}_MidnightSquidRings",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "798",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_EelFishstick": {
+  "Id": "{{ModId}}_EelFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "148",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_LargemouthBassFishstick": {
+  "Id": "{{ModId}}_LargemouthBassFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "136",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_BullheadFishstick": {
+  "Id": "{{ModId}}_BullheadFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "700",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_CarpFishstick": {
+  "Id": "{{ModId}}_CarpFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "142",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_ChubFishstick": {
+  "Id": "{{ModId}}_ChubFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "702",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_RainbowTroutFishstick": {
+  "Id": "{{ModId}}_RainbowTroutFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "138",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SturgeonFishstick": {
+  "Id": "{{ModId}}_SturgeonFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "698",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_WalleyeFishstick": {
+  "Id": "{{ModId}}_WalleyeFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "140",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_LingcodFishstick": {
+  "Id": "{{ModId}}_LingcodFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "707",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_PerchFishstick": {
+  "Id": "{{ModId}}_PerchFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "141",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_MidnightCarpFishstick": {
+  "Id": "{{ModId}}_MidnightCarpFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "269",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SunfishFishstick": {
+  "Id": "{{ModId}}_SunfishFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "145",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_CatfishFishstick": {
+  "Id": "{{ModId}}_CatfishFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "143",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SmallmouthBassFishstick": {
+  "Id": "{{ModId}}_SmallmouthBassFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "137",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_ShadFishstick": {
+  "Id": "{{ModId}}_ShadFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "706",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_BreamFishstick": {
+  "Id": "{{ModId}}_BreamFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "132",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_PikeFishstick": {
+  "Id": "{{ModId}}_PikeFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "144",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SalmonFishstick": {
+  "Id": "{{ModId}}_SalmonFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "139",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_TigerTroutFishstick": {
+  "Id": "{{ModId}}_TigerTroutFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "699",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_DoradoFishstick": {
+  "Id": "{{ModId}}_DoradoFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "704",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_GobyFishstick": {
+  "Id": "{{ModId}}_GobyFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "Goby",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_ScorpionCarpFishstick": {
+  "Id": "{{ModId}}_ScorpionCarpFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "165",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_SandfishPatty": {
+  "Id": "{{ModId}}_SandfishPatty",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "164",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_BlueDiscusFishstick": {
+  "Id": "{{ModId}}_BlueDiscusFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "838",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_LionfishFishstick": {
+  "Id": "{{ModId}}_LionfishFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "837",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_StingrayPatty": {
+  "Id": "{{ModId}}_StingrayPatty",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "836",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_LavaEelFishstick": {
+  "Id": "{{ModId}}_LavaEelFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "162",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+  ]
+},
+
+"{{ModId}}_GhostfishFishstick": {
+  "Id": "{{ModId}}_GhostfishFishstick",
+  "SpawnTime": 3,
+  "ProducedItems": [
+    {
+      "RequiredPopulation": 10,
+      "Chance": 0.06,
+      "ItemID": "156",
+      "MinQuantity": 1,
+      "MaxQuantity": 3
+    }
+]
+}
+            }
+        }
+    ]
+    }
