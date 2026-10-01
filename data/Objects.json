@@ -66,8 +66,8 @@
         },
         "{{ModId}}_SunfishFishstick": {
           "Name": "{{ModId}}_SunfishFishstick",
-          "DislpayName": "Sunfish Fishstick",
-          "Description": "exactly what it sounds like",
+          "DisplayName": "{{i18n:SunfishFishstick.name}}",
+          "Description": "{{i18n:SunfishFishstick.description}}",
           "Type": "Fish",
           "Category": -4,
           "Price": 300,
@@ -189,7 +189,7 @@
           "Category": -4,
           "Price": 300,
           "Texture": "Mods/{{ModId}}/fish",
-          "SpriteIndex": 110,
+          "SpriteIndex": 10,
           "Edibility": 150,
           "ExcludeFromFishingCollection": true,
           "ExcludeFromShippingCollection": true

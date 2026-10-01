@@ -89,9 +89,9 @@
           "ItemId": "{{ModId}}_BlobfishPatty",
           "Condition": "LOCATION_SEASON Here winter"
         },
-        "{{ModId}}_SuperCukeRings": {
-          "Id": "{{ModId}}_SuperCukeRings",
-          "ItemId": "{{ModId}}_SuperCukeRings",
+        "{{ModId}}_SuperSeaCukeRings": {
+          "Id": "{{ModId}}_SuperSeaCukeRings",
+          "ItemId": "{{ModId}}_SuperSeaCukeRings",
           "Condition": "LOCATION_SEASON Here winter"
         },
         "{{ModId}}_SeaCukeRings": {
@@ -211,7 +211,7 @@
           "ItemId": "{{ModId}}_LegendIIFishstick",
           "Condition": "LOCATION_SEASON Here winter"
         },
-           "{{ModId}}_BananaBlossomFishstick": {
+           "{{ModId}}_BananaBlossomFishstick": { 
           "ItemId": "{{ModId}}_BananaBlossomFishstick",
           "Condition": "LOCATION_SEASON Here winter",
           "When": {
@@ -220,6 +220,7 @@
           }
         },
          "{{ModId}}_TempehFishstick": {
+          "Id": "{{ModId}}_TempehFishstick",
           "ItemId": "{{ModId}}_TempehFishstick",
           "Condition": "LOCATION_SEASON Here winter",
           "When": {
@@ -511,9 +512,9 @@
             "Fish"
           ],
           "Entries": {
-            "{{ModId}}_SuperCukeRings": {
-              "Id": "{{ModId}}_SuperCukeRings",
-              "ItemId": "{{ModId}}_SuperCukeRings"
+            "{{ModId}}_SuperSeaCukeRings": {
+              "Id": "{{ModId}}_SuperSeaCukeRings",
+              "ItemId": "{{ModId}}_SuperSeaCukeRings"
           
             },
             "{{ModId}}_LionfishFishstick": {
@@ -539,9 +540,9 @@
             "Fish"
           ],
           "Entries": {
-            "{{ModId}}_SuperCukeRings": {
-              "Id": "{{ModId}}_SuperCukeRings",
-              "ItemId": "{{ModId}}_SuperCukeRings"
+            "{{ModId}}_SuperSeaCukeRings": {
+              "Id": "{{ModId}}_SuperSeaCukeRings",
+              "ItemId": "{{ModId}}_SuperSeaCukeRings"
             },
             "{{ModId}}_TunaFishstick": {
               "Id": "{{ModId}}_TunaFishstick",
@@ -570,9 +571,9 @@
             "Fish"
           ],
           "Entries": {
-            "{{ModId}}_SuperCukeRings": {
-              "Id": "{{ModId}}_SuperCukeRings",
-              "ItemId": "{{ModId}}_SuperCukeRings"
+            "{{ModId}}_SuperSeaCukeRings": {
+              "Id": "{{ModId}}_SuperSeaCukeRings",
+              "ItemId": "{{ModId}}_SuperSeaCukeRings"
             },
             "{{ModId}}_TunaFishstick": {
               "Id": "{{ModId}}_TunaFishstick",
@@ -605,9 +606,9 @@
             "Fish"
           ],
           "Entries": {
-            "{{ModId}}_SuperCukeRings": {
-              "Id": "{{ModId}}_SuperCukeRings",
-              "ItemId": "{{ModId}}_SuperCukeRings"
+            "{{ModId}}_SuperSeaCukeRings": {
+              "Id": "{{ModId}}_SuperSeaCukeRings",
+              "ItemId": "{{ModId}}_SuperSeaCukeRings"
             },
             "{{ModId}}_OctopusRings":{
               "Id": "{{ModId}}_OctopusRings",
@@ -621,22 +622,6 @@
               "Id": "{{ModId}}_FlounderPatty",
               "ItemId": "{{ModId}}_FlounderPatty"
             },
-            "{{ModId}}_LionfishFishstick": {
-              "Id": "{{ModId}}_LionfishFishstick",
-              "ItemId": "{{ModId}}_LionfishFishstick"
-          },
-           "{{ModId}}_BlueDiscusFishstick": {
-              "Id": "{{ModId}}_BlueDiscusFishstick",
-              "ItemId": "{{ModId}}_BlueDiscusFishstick"
-           },
-           "{{ModId}}_TilapiaPatty": {
-            "Id": "{{ModId}}_TilapiaPatty",
-            "ItemId": "{{ModId}}_TilapiaPatty"
-           },
-           "{{ModId}}_MidnightCarpFishstick": {
-             "Id": "{{ModId}}_MidnightCarpFishstick",
-             "ItemId": "{{ModId}}_MidnightCarpFishstick"
-           },
            "{{ModId}}_TunaFishstick": {
             "Id": "{{ModId}}_TunaFishstick",
             "ItemId": "{{ModId}}_TunaFishstick"
@@ -694,6 +679,10 @@
           "{{ModId}}_GhostfishFishstick": {
             "Id": "{{ModId}}_GhostfishFishstick",
             "ItemId": "{{ModId}}_GhostfishFishstick"
+          },
+          "{{ModId}}_StonefishPatty": {
+            "Id": "{{ModId}}_StonefishPatty",
+            "ItemId": "{{ModId}}_StonefishPatty"
           }
         }
       },
